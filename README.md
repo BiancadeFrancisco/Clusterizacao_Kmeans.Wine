@@ -1,4 +1,4 @@
-# Clusterizacao_Kmeans_Wine
+# Clusterizacao_Kmeans.Wine
 Agrupando em cluster tipos de vinhos, através da classificação das suas features.
 
 ## Descrição Projeto
